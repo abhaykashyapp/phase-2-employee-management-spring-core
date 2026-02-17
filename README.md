@@ -42,5 +42,4 @@ This phase focuses on learning how Spring manages objects internally before movi
 
 ---
 
-## Project Structure
 
